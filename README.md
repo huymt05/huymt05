@@ -17,5 +17,5 @@ Currently, I'm looking for an **Internship opportunity in DevOps or Cloud Engine
 
 - GitHub: [github.com/huymt05](https://github.com/huymt05)
 - Email: vanhuy.thcscc@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nguy%E1%BB%85n-v%C4%83n-huy-914696207/
+- LinkedIn: https://www.linkedin.com/in/huymt05
 
